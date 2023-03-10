@@ -1,3 +1,4 @@
+# Autores: Frederico Ferreira Alves Pinto (2022) para o MagLab
 import re
 import unittest
 
