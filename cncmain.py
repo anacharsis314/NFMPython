@@ -1,3 +1,4 @@
+## Autores: Frederico Ferreira Alves Pinto para o Maglab (2022), Dalton (2022 - 2023)
 import time
 import serial
 import numpy as np
