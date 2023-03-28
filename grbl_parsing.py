@@ -1,3 +1,6 @@
+# Autores: 
+# Frederico Ferreira Alves Pinto 2022
+# Dalton Aryel Pedro 2023
 import re
 import unittest
 
